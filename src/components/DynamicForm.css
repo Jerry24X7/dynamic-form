@@ -1,0 +1,14 @@
+.input-container{
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0px;
+    background: #FFF9CA;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.input-container label{
+    color: #B2A4FF;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
